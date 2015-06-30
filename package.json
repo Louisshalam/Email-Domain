@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Louisshalam/node_packer.git"
+    "url": "git+https://github.com/Louisshalam/Email-Domain.git"
   },
   "author": "louisshalam@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Louisshalam/node_packer/issues"
+    "url": "https://github.com/Louisshalam/Email-Domain/issues"
   },
-  "homepage": "https://github.com/Louisshalam/node_packer#readme",
+  "homepage": "https://github.com/Louisshalam/Email-Domain#readme",
   "private":true,
   "dependencies": {
 
