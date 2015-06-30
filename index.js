@@ -7,7 +7,7 @@
 var fs = require("fs");
 var util = require("util");
 
-var emails = fs.readFileSync('/Users/louisshalam/GitHub/Packer/node_packer/resources/emails.txt', {encoding:'utf8'});
+var emails = fs.readFileSync('/Users/louisshalam/GitHub/Packer/Email-Domain/resources/emails.txt', {encoding:'utf8'});
 console.log(util.inspect(emails));
 
 var emailsArray = emails.split('\n');
